@@ -17,7 +17,8 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.abdelrahman_elnagar.expoapp"
     },
     "web": {
       "bundler": "metro"
